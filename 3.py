@@ -5,6 +5,7 @@
 
 
 
+
 class Error:
     def __init__(self, *args):
         self.my_list = []

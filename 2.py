@@ -5,6 +5,7 @@
 
 
 
+
 class DivisionByNull:
     def __init__(self, divider, denominator):
         self.divider = divider
