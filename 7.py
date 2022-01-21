@@ -6,6 +6,7 @@
 #Проверьте корректность полученного результата.
 
 
+
 class ComplexNumber:
     def __init__(self, a, b, *args):
         self.a = a

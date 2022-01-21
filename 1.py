@@ -6,6 +6,7 @@
 #Проверить работу полученной структуры на реальных данных.
 
 
+
 class Data:
     def __init__(self, day_month_year):
         # self.day = day

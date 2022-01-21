@@ -71,6 +71,7 @@ class Copier(StoreMashines):
         return f'to copier smth  {self.numb} times'
 
 
+
 unit_1 = Printer('hp', 2000, 5, 10)
 unit_2 = Scanner('Canon', 1200, 5, 10)
 unit_3 = Copier('Xerox', 1500, 1, 15)
